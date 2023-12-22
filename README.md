@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PoojaP-atil
-- 👀 I’m interested in SQL and Web Designing
+- 👀 I’m interested in SQL, Web Designing, Python : Django and AI
 - 🌱 I’m currently learning Data Software Engineering from ITVEDANT, Vashi
 - 📫 How to reach me pooja.shekhar21@gmail.com
 
